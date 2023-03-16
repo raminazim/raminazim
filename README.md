@@ -1,1 +1,1 @@
-Hello I'm Ramin. I am a 14 year ood who is learning how to code. All my projects will probably end up in a repository.
+Hello I'm Ramin. I am a 14 year old who is learning how to code. All my projects will probably end up in a repository.
