@@ -1,4 +1,1 @@
-Hey 👋
-My name is Ramin
-I'm a developer who is just coding for fun
-Some of my projects will be posted on GitHub
+Hello I'm Ramin. I am a 14 year ood who is learning how to code. All my projects will probably end up in a repository.
