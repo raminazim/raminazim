@@ -1,6 +1,4 @@
-Hello 👋
-I Ramin
-I Code
-I Know HTML, CSS, Python
-I Learning How Make Game On Roblox
-I Thank You For Seeing Profile
+I Ramin 👋<br>
+I Code 💻<br>
+I Use HTML, CSS, Python 🤓<br>
+I Highscool Student 📚
