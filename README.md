@@ -1,5 +1,4 @@
 I Ramin 👋<br>
 I Code 💻<br>
-I Use HTML, CSS, Python 🤓<br>
-I Highscool Student 📚<br>
-I Think Simple Life Best Life 🙌
+I Go Highscool 📚<br>
+###### *Simple language was used to communicate with an international audience 😊
