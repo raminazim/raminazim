@@ -1,1 +1,6 @@
-Hello I'm Ramin. I am a 14 year old who is learning how to code. All my projects will probably end up in a repository.
+Hello 👋
+I Ramin
+I Code
+I Know HTML, CSS, Python
+I Learning How Make Game On Roblox
+I Thank You For Seeing Profile
