@@ -1,1 +1,1 @@
-Idk, I like coding ＼（〇_ｏ）／.
+I code for fun 👍
