@@ -1,4 +1,4 @@
-Hey, I'm Ramin! 👋
-Owner @ Ramin DSGN
-Building @ Tempo
-BBA '30 @ Schulich
+# Hey, I'm Ramin! 👋 
+</br>Owner @ Ramin DSGN
+</br>Building @ Tempo
+</br>BBA '30 @ Schulich
