@@ -1,4 +1,3 @@
 # Hey, I'm Ramin! 👋 
-</br>Owner @ Ramin DSGN
-</br>Building @ Tempo
+</br>Building Something
 </br>BBA '30 @ Schulich
